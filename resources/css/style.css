@@ -33,4 +33,15 @@ h3{
 
 .footer{
   background-color: dimgray;
+  text-align: left;
+  color: white;
+  font-size: 11px
+}
+
+.btm-nav{
+  font-size: 18px;
+}
+
+p{
+  font-size: 14px;
 }
